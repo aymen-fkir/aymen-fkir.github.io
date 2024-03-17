@@ -1,0 +1,61 @@
+{
+    "automation":[
+        {
+            "title":"Twitter Bot",
+            "description":"Created a dynamic Twitter bot for real-time updates on current trends .",
+            "skils":["Google custome search","Chat gpt api","langchain","Twitter Api","python"],
+            "url":"https://github.com/aymen-fkir/twitter-bot",
+            "image":"images/twitter_bot.jpg"
+        },
+        {
+            "title": "Email manger",
+            "description": "Devoloped a personel email manager that filtter unreaded emails based on their importance",
+            "skils": ["pandasai","Chat gpt api","langchain","python"],
+            "url":"https://github.com/aymen-fkir/email-manger",
+            "image":"images/email_manger.jpg"
+        },
+        {
+            "title": "Secure Folder",
+            "description":"Devolped an image recognition project that gives access to folder threw authorised faces ",
+            "skils":["image recognition","Supabase (Postgree sql)","python"],
+            "url":"https://github.com/aymen-fkir/secure-folder-project",
+            "image":"images/folder_security.jpg"
+        },
+        {
+            "title":"Yotube comment classifier",
+            "description":"Created a sentiment classifier project that collect comments from youtubevideo and classifie them as toxic or not toxic",
+            "skils":["pandasai","yotube Api","chat gpt api","python"],
+            "url":"https://github.com/aymen-fkir/youtube_comment_classifier",
+            "image":"images/youtbe_bot.jpg"
+        }
+    ],
+    "ai": [
+        {
+          "title": "Car vs. Bus Classifier",
+          "description": "Developed a highly accurate (90%) image classifier using TensorFlow and Keras to distinguish cars from buses in images.",
+          "skils": ["TensorFlow", "Keras"],
+          "url": "https://github.com/aymen-fkir/TensorFlow_Projects/tree/main/Car_Bus_Detection",
+          "image": "images/bus.jpg"
+        },
+        {
+          "title": "Cat vs. Dog Classifier",
+          "description": "Built an image classifier (70% accuracy) with TensorFlow and Keras to differentiate between cats and dogs in pictures.",
+          "skils": ["TensorFlow", "Keras"],
+          "url": "https://github.com/aymen-Fkir/TensorFlow_Projects/blob/main/Cats-Dogs-Detection/Cats_Dogs.ipynb",
+          "image": "images/woof_meow.jpg"
+        },
+        {
+          "title": "Handwritten Digit Recognition",
+          "description": "Created a high-performing (90% accuracy) image classifier using TensorFlow and Keras to recognize handwritten digits from the MNIST dataset.",
+          "skils": ["TensorFlow", "Keras"],
+          "url": "https://github.com/aymen-fkir/TensorFlow_Projects/blob/main/Number-Detection/number_detection.ipynb",
+          "image": "images/dataset-cover.jpg"
+        }
+      ]
+      
+}
+
+
+
+
+

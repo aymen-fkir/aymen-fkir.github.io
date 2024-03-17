@@ -1,0 +1,133 @@
+body{
+    height: 100vh;
+    width: 99%;
+    display: flex;
+    flex-direction: column;
+    background-color: #F7F7F7;
+    font-family: "Roboto Serif", serif;
+    text-transform: capitalize;
+    background-image: url("images/backim.avif");
+    overflow: hidden;
+}
+
+header{
+    height: 100px;
+    box-shadow: -1px 5px 5px rgba(76, 76, 76, 0.236);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding-left: 150px;
+    background-color: #00000058;
+    color: white;
+    margin: -10px;
+}
+th{
+    width: 80px;
+}
+th:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.main{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.aboutme{
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: -1px -1px 10px  rgba(85, 84, 84, 0.574);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 15px;
+    font-weight: 400;
+    background-color: #FFF5F5;
+}
+.aboutme img{
+    margin-top: 5px;
+}
+
+.aboutme p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.projects{
+    height: 550px;
+    margin-left: 90px;
+    width: 900px;
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+
+.item{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: -1px 5px 5px  rgba(85, 84, 84, 0.463);
+    justify-content: space-between;
+    background-color: #FFF5F5;
+}
+.image{
+    background-color: #000000;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.item img{
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+
+}
+.item h1{
+    font-size: 20px;
+}
+.item p{
+    margin-left: 30px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+.item:hover{
+    cursor: pointer;
+    transform: scale(1.02);
+    transition: all .5s;
+
+}
+.skills{
+    margin-left: 30px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.title{
+    font-weight:700 ;
+}
+
+.profile{
+    height: 120px;
+    width: 120px;
+    border-radius: 100px;
+
+}
+.icon{
+    height: 20px;
+    width: auto;
+    margin-left: 10px;
+}
+
