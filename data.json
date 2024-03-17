@@ -50,6 +50,13 @@
           "skils": ["TensorFlow", "Keras"],
           "url": "https://github.com/aymen-fkir/TensorFlow_Projects/blob/main/Number-Detection/number_detection.ipynb",
           "image": "images/dataset-cover.jpg"
+        },
+        {
+          "title": "Object Detection",
+          "description" : "Implimented the R-CNN model from scratch to detect planes from satelite images ",
+          "skils": ["TensorFlow", "Keras"],
+          "url": "https://github.com/aymen-fkir/TensorFlow_Projects/blob/main/object_detection/object_detection.ipynb",
+          "image":"images/plane.jpg"
         }
       ]
       
